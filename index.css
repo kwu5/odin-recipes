@@ -1,0 +1,16 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-weight: 700;
+    color: gray;
+    border-color: aqua;
+    outline: auto;
+    margin: 10px;
+    
+}
+
+li{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 15px;    
+}

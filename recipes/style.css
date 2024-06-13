@@ -1,0 +1,30 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img{
+    height: 200px;
+    width: auto;
+    
+}
+
+h1{
+    color: aqua;
+}
+
+.Description{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 15px;
+}
+
+.Description ul{
+    line-height: 2;
+}
+
+.Steps{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: grey;
+    padding: 15px;
+    line-height: 2;
+
+}
